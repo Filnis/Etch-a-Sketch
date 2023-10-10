@@ -41,6 +41,12 @@ h1{
     filter: brightness(1);
 }
 
+
+.buttons{
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
 /* .square:hover{
     background-color: red;
 } */
